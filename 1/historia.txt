@@ -1,0 +1,77 @@
+    1  git init
+    2  git remote add origin https://github.com/marcinmiszkurka/pr1.git
+    3  git push -u origin master
+    4  marcinmiszkurka
+    5  git push -u origin master
+    6  marcinmiszkurka
+    7  856485Mm1
+    8  git push -u origin master
+    9  git remote add origin https://github.com/marcinmiszkurka/pr1.git
+   10  git push -u origin master
+   11  cd Pulpit
+   12  pwd
+   13  ls
+   14  cd gmail
+   15  git init
+   16  git remote add origin https://github.com/marcinmiszkurka/pr1.git
+   17  git push -u origin master
+   18  git help
+   19  git status
+   20  git add .
+   21  git status
+   22  git push -u origin master
+   23  git commit -m "nowy folder i podfoldery tj katalog czynnosci z dnia 20.10.2017"
+   24  git remote add origin https://github.com/marcinmiszkurka/pr1.git
+   25  git push -u origin master
+   26  ls la
+   27  pwd
+   28  git init
+   29  cd Pulpit
+   30  cd gmail
+   31  nano program.c
+   32  nano program3.c
+   33  ./ program.c
+   34  pwd
+   35  ls
+   36  cd 1
+   37  ls
+   38  git program3.c
+   39  ./ program3.c
+   40  ./program3.c
+   41  nano program3.c
+   42  nano program4.c
+   43  gcc program4.c -o program.o
+   44  ./program4.o
+   45  git status
+   46  nano program4.c
+   47  ls
+   48  ./program.o
+   49  gcc program4.c -o program4.o
+   50  ls
+   51  nano program4.C
+   52  nano program3.C
+   53  TOUCH FIRST.C
+   54  NANO FIRST.C
+   55  touch first
+   56  rm touch
+   57  rm first
+   58  touch first
+   59  rm first
+   60  touch first.c
+   61  nano first
+   62  nano first.c
+   63  gcc first.c -o first.o
+   64  git add .
+   65  git commit -m powrót do programu pierwszego
+   66  git commit -m " powrót do programu pierwszego"
+   67  git status
+   68  git ppush
+   69  git ppush git remote add origin https://github.com/marcinmiszkurka/gmail.git
+   70  git push git remote add origin https://github.com/marcinmiszkurka/gmail.git
+   71  git push -u origin master
+   72  ls
+   73  ./ first.o
+   74  ./first.o
+   75  history>
+   76  history >
+   77  history > historia.txt
